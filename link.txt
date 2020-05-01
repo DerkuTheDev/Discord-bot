@@ -1,0 +1,3 @@
+THE INVITE LINK
+
+https://discordapp.com/oauth2/authorize?client_id=705736530190270475&scope=bot&permissions=1916267615
