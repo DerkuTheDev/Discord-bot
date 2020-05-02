@@ -3,11 +3,7 @@ module.exports = {
 
   run: async (bot, message, args) => {
     var ids = [
-      "669206927879962626",
-      "422031808616595462",
-      "682265055756025901",
-      "586771311670329344",
-      "300332269296680960"
+      "Your user id goes here",
     ];
     if (!ids.includes(message.author.id))
       return message.channel.send("You can't use this");
