@@ -11,10 +11,6 @@ module.exports = {
         "There is no channel called 'log', please create one and make sure the bot can send messages in it!"
       );
 
-if (kUser.hasPermission("MANAGE_MESSAGES"))
-      return message.channel.send(
-        "What are you doing, you cant kick that person!"
-      );
     if (!message.member.hasPermission("KICK_MEMBERS"))
       return message.channel.send("You dont have permission to do that!");
     let kUser = message.guild.member(
