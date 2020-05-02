@@ -41,5 +41,5 @@ node Index.js
 ```
 ### Socials
 - [Twitter](https://twitter.com/mania_mha)
-- [YouTube Tutorial](https://www.youtube.com/watch?v=-WUW2KIW8vI)
+- [YouTube Tutorial](https://www.youtube.com/watch?v=-x4zNtL7Rrk)
 - [Discord](https://discord.gg/QFcfGN7)
