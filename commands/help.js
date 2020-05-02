@@ -11,4 +11,4 @@ __**Commands List**__
 > \`oof\`, **\`slap\`**
 > \`warn\`, \`clear [amount]\`
 > \`meme\`, \` \``);
-    message.channel.send(helpembed)}}};
+    message.channel.send(helpembed)}};
