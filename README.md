@@ -1,6 +1,7 @@
 # Deku The Discord Bot
 
 A discord bot that has many commands like d!slap which can slap a user!
+[Invite me!](https://discordapp.com/oauth2/authorize?client_id=705736530190270475&scope=bot&permissions=1916267615)
 
 ## Features
 
@@ -14,6 +15,11 @@ A discord bot that has many commands like d!slap which can slap a user!
 - Corona
 - oof
 - Meme
+
+## Useful links
+
+- [Discord Dev Portal](https://discordapp.com/developers/applications)
+- [Permissions Calculator](https://discordapi.com/permissions.html#0)
 
 ### Requirements
 
@@ -33,3 +39,7 @@ First make sure you have all the required tools installed on your local machine 
 ```
 node Index.js
 ```
+### Socials
+- [Twitter](https://twitter.com/mania_mha)
+- [YouTube Tutorial](https://www.youtube.com/watch?v=-WUW2KIW8vI)
+- [Discord](https://discord.gg/QFcfGN7)
