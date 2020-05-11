@@ -15,6 +15,8 @@ A discord bot that has many commands like d!slap which can slap a user!
 - Corona
 - oof
 - Meme
+- Maybe more in the future!
+
 
 ## Useful links
 
